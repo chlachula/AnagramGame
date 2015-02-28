@@ -27,7 +27,10 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
  */
 
-/* Anagram Game Application */
+/* Anagram Game Application adopted by Josef
+ * And here is a second line 
+ * and the bthird line
+ */
 
 package com.toy.anagrams.lib;
 
